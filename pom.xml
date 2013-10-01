@@ -1,10 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>de.kumpelblase2</groupId>
-    <artifactId>remoteentities</artifactId>
+    <groupId>me.stopbox</groupId>
+    <artifactId>WitherGunz</artifactId>
     <version>1.8-SNAPSHOT</version>
-    <name>RemoteEntities</name>
-    <description>Be able to control every entity in the game. Also you can create npcs if you want to!</description>
+    <name>WitherGunz</name>
+    <description>Be able to shoot witherheads with a wooden hoe!</description>
     <repositories>
         <repository>
             <id>bukkit</id>
