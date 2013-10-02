@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>me.stopbox</groupId>
     <artifactId>WitherGunz</artifactId>
-    <version>1.8-SNAPSHOT</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>WitherGunz</name>
     <description>Be able to shoot witherheads with a wooden hoe!</description>
     <repositories>
